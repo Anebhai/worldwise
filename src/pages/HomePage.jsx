@@ -1,6 +1,5 @@
 import { Link } from "react-router-dom";
 import styles from "./Homepage.module.css";
-import Wow from "../wow/Wow";
 
 import PageNav from "../components/PageNav";
 export default function Homepage() {
@@ -21,7 +20,6 @@ export default function Homepage() {
         <Link to="./app" className="cta">
           Start Tracking Now
         </Link>
-        <Wow />
       </section>
     </main>
   );
