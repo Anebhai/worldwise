@@ -1,1 +1,87 @@
-
+{
+  "cities": [
+    {
+      "cityName": "Lisbon",
+      "country": "Portugal",
+      "emoji": "🇵🇹",
+      "date": "2027-10-31T15:59:59.138Z",
+      "notes": "My favorite city so far!",
+      "position": {
+        "lat": 38.727881642324164,
+        "lng": -9.140900099907554
+      },
+      "id": 73930385
+    },
+    {
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2027-07-15T08:22:53.976Z",
+      "notes": "",
+      "position": {
+        "lat": 40.46635901755316,
+        "lng": -3.7133789062500004
+      },
+      "id": 17806751
+    },
+    {
+      "cityName": "Bengaluru",
+      "emoji": "IN",
+      "date": "2023-09-30T14:14:08.851Z",
+      "notes": "yes bangalore",
+      "position": {
+        "lat": "12.972107449831796",
+        "lng": "77.58888244628908"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Chitradurga",
+      "country": "India",
+      "emoji": "🇮🇳",
+      "date": "2023-10-01T07:09:32.711Z",
+      "notes": "test",
+      "position": {
+        "lat": "14.232437996569367",
+        "lng": "76.39205932617189"
+      },
+      "id": 98443206
+    },
+    {
+      "cityName": "Oualata",
+      "country": "Mauritania",
+      "emoji": "🇲🇷",
+      "date": "2023-10-01T07:11:28.099Z",
+      "notes": "test 4",
+      "position": {
+        "lat": "19.145168196205297",
+        "lng": "-8.085937500000002"
+      },
+      "id": 98443207
+    },
+    {
+      "cityName": "Quirusillas",
+      "country": "Bolivia (Plurinational State of)",
+      "emoji": "🇧🇴",
+      "date": "2023-10-01T07:12:00.929Z",
+      "notes": "ass",
+      "position": {
+        "lat": "-18.312810846425442",
+        "lng": "-63.98437500000001"
+      },
+      "id": 98443208
+    },
+    {
+      "cityName": "Villa Huidobro",
+      "country": "Argentina",
+      "emoji": "🇦🇷",
+      "date": "2023-10-01T07:13:06.446Z",
+      "notes": "",
+      "position": {
+        "lat": "-34.88593094075316",
+        "lng": "-65.03906250000001"
+      },
+      "id": 98443209
+    }
+  ]
+}
